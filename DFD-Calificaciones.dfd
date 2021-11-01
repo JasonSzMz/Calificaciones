@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'Ingresa la califiación para determinar si es aprobatoria'
+5
+1
+12
+calificacion
+7
+0
+1
+15
+calificacion>=7
+4
+1
+35
+'La calificación no es aprobatoria'
+13
+4
+1
+32
+'La calificación es aprobatoria'
+13
+1
